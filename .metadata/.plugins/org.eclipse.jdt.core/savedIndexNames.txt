@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\chris\projects\promineotech\BE-Promineo-Tech\Week-07-Introduction_to_MySQL\.metadata\.plugins\org.eclipse.jdt.core
+3413270776.index
+2987838104.index
+1133177487.index
+298013943.index
+1865797976.index

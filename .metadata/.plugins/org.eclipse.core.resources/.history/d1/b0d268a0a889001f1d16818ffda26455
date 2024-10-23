@@ -1,9 +1,0 @@
-package projects.service;
-
-public class projectService {
-	
-	public projectService() {
-		
-	}
-
-}

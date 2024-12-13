@@ -42,7 +42,6 @@ import java.util.NoSuchElementException;
 			throw new DbException("project with ID=" + projectId + " does not exist.");
 		}
 		
-		
 	}
 	  
 }
